@@ -72,7 +72,7 @@ hr {
 .section-header .section-title:after {
   content: "";
   position: absolute;
-  width: 24px;
+  width: 26px;
   height: 24px;
   bottom: -11px;
   left: 50%;
@@ -174,7 +174,7 @@ ul.nostyle i {
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
   }
   #main-menu.navbar-default .navbar-nav > li > a {
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 40px;
   }
   #main-menu.navbar-default .navbar-nav > li.active > a,
